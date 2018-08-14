@@ -1,0 +1,4 @@
+#pragma once
+#define UID "0209887a20e2027be0618fc297afe74508461268756ad6c5bd5c710cb7cad617"
+#define SECRET "3a3afea959ca4ccf39f3209a2c99703c218ddc8e0473554fa4fb0456dcdc4178"
+#define AUTHCODE "bac108dcaf8da469ba5660e03da00488533b7f91"
